@@ -5,4 +5,4 @@ Changes:
 
 
 
-Edit: *Bot outdated, only slash commands will be used for discord.*
+Edit: Bot outdated, only slash commands will be used for discord.
